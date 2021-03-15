@@ -1,3 +1,3 @@
 # Markdown blog
 
-## Technologies: Express, MongoDB and ejs as view template
+## Technologies: Node.js, Express, MongoDB and ejs as view template
